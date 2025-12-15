@@ -1,1 +1,1 @@
-Repo qui contient les screensshots.
+Repo qui contient les screenshots.
