@@ -117,3 +117,7 @@ Chaque étape est illustrée par des **captures d’écran réelles**, démontra
 * déploiement via API
 * monitoring, détection de dérive
 * rollback et gestion des versions
+
+--- 
+
+**Auteur** : Ossama ETTAQAFI
